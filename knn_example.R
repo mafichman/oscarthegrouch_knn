@@ -5,6 +5,8 @@
 
 # Identify the nearest neighbor playground (sf object) from each trash can
 
+# Code by Michael Fichman - mfichman@upenn.edu
+
 library(tidyverse)
 library(sf)
 library(FNN)
