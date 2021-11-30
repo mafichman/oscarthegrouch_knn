@@ -8,7 +8,6 @@
 library(tidyverse)
 library(sf)
 library(FNN)
-library(mapview)
 
 # Load in Philadelphia wastebaskets
 
